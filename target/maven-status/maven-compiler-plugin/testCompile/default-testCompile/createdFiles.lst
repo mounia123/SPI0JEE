@@ -1,0 +1,6 @@
+fr\univbrest\dosi\repositories\CandidatRepositoryTest.class
+fr\univbrest\dosi\repositories\EnseignantRepositoryTest.class
+fr\univbrest\dosi\repositories\FormationRepositoryTest.class
+fr\univbrest\dosi\AppTestConfig.class
+fr\univbrest\dosi\testBusiness\FormationBusinessTest.class
+fr\univbrest\dosi\testBusiness\FormationBusinessStub.class
